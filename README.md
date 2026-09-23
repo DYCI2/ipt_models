@@ -37,15 +37,9 @@ models/   TorchScript models (.ts)
 cards/    one Markdown card per model
 ```
 
-## ➕ Adding a model
-
-A model must be a TorchScript module whose `forward` takes `(batch, 1, segment_length)` float32 raw audio and returns logits `(batch, num_classes)`, and which exports `get_sr()`, `get_seglen()` and `get_classnames()`. Export it with torch 2.4.1, the version libipt links against.
-
-Name it `<instrument>[_<variant>]_<source>.ts`, add its card in `cards/` and a row to the table above.
-
 ## 📜 License
 
-<!-- TODO -->
+This project is released under a CC-BY-NC-4.0 license.
 
 ## 📇 Contact
 
