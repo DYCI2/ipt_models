@@ -45,6 +45,6 @@ Index as output by `ipt~` (left outlet) and column order in `pipo.ipt`.
 
 ## Training
 
-<!-- TODO: dataset, recording conditions, performers -->
+Dataset: GFD, [GFDatabase: A Database of Flute Playing Techniques](https://doi.org/10.5281/zenodo.14712391) (Brochec & Howie, v2.1, Zenodo)
 <!-- TODO: ipt_recognition commit / config used -->
 <!-- TODO: evaluation metrics (accuracy, macro F1, ...) -->

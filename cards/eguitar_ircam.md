@@ -53,6 +53,6 @@ Index as output by `ipt~` (left outlet) and column order in `pipo.ipt`.
 
 ## Training
 
-<!-- TODO: dataset, recording conditions, performers -->
+Dataset: EG-IPT, [EG-IPT Dataset](https://doi.org/10.5281/zenodo.15205644) (Zenodo), described in [Fiorini et al., NIME 2025](https://hal.science/hal-05061680)
 <!-- TODO: ipt_recognition commit / config used -->
 <!-- TODO: evaluation metrics (accuracy, macro F1, ...) -->

@@ -52,6 +52,6 @@ Index as output by `ipt~` (left outlet) and column order in `pipo.ipt`.
 
 ## Training
 
-<!-- TODO: dataset, recording conditions, performers -->
+Dataset: T-IPT (not publicly available yet)
 <!-- TODO: ipt_recognition commit / config used -->
 <!-- TODO: evaluation metrics (accuracy, macro F1, ...) -->
