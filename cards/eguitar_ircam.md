@@ -2,7 +2,7 @@
 
 Electric guitar playing-technique classifier, 14 classes.
 
-File: [`models/eguitar_ircam.ts`](../models/eguitar_ircam.ts)
+File: [`eguitar_ircam.ts`](https://github.com/DYCI2/ipt_models/releases/latest/download/eguitar_ircam.ts) (latest release)
 
 ```
 ipt~ eguitar_ircam.ts

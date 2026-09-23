@@ -2,7 +2,7 @@
 
 Flute playing-technique classifier, 11 classes.
 
-File: [`models/flute_ircam.ts`](../models/flute_ircam.ts)
+File: [`flute_ircam.ts`](https://github.com/DYCI2/ipt_models/releases/latest/download/flute_ircam.ts) (latest release)
 
 ```
 ipt~ flute_ircam.ts

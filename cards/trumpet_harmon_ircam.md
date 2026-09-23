@@ -2,7 +2,7 @@
 
 Trumpet with harmon mute playing-technique classifier, 14 classes.
 
-File: [`models/trumpet_harmon_ircam.ts`](../models/trumpet_harmon_ircam.ts)
+File: [`trumpet_harmon_ircam.ts`](https://github.com/DYCI2/ipt_models/releases/latest/download/trumpet_harmon_ircam.ts) (latest release)
 
 ```
 ipt~ trumpet_harmon_ircam.ts

@@ -2,7 +2,7 @@
 
 Trumpet playing-technique classifier, 14 classes.
 
-File: [`models/trumpet_ircam.ts`](../models/trumpet_ircam.ts)
+File: [`trumpet_ircam.ts`](https://github.com/DYCI2/ipt_models/releases/latest/download/trumpet_ircam.ts) (latest release)
 
 ```
 ipt~ trumpet_ircam.ts
